@@ -9,6 +9,6 @@ Projeto desenvolvido para o desafio do bootcamp, implementando um sistema simple
 - Exibição de extrato
 - Opção para sair do sistema
 
-## Autor
-Giovana Maia
+## Autor: Giovana Maia
+
 [![GIOVANA MAIA](https://img.shields.io/badge/linkedin-%23E75480.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovana-maia/)
